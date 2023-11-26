@@ -1,4 +1,3 @@
 # tour987.github.io
 
-It's a series of blogs about  [generative-ai-for-beginners](https://github.com/tour987/tour987.github.io/tree/main/generative-ai-for-beginners)
-  
+这是一个学习鸿蒙开发的博客。里面会包含项目，阶段总结等内容，要求每天都更新，督促自己学习。
